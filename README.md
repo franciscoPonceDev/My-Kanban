@@ -1,6 +1,10 @@
 # Awesome-Kanban
 
-> A nice simple app where you can add and remove books. The books you add are stored in Local Storage.
+> A nice simple Kanban board that you can:
+- Add Tasks
+- Drag and drop Tasks
+- Edit Task
+- Delete Task
 
 ## Built With
 
@@ -10,7 +14,7 @@
 
 ## Live Demo
 
-[Live Demo](https://franciscoponcedev.github.io/awesome-books/)
+[Live Demo](https://franciscoponcedev.github.io/My-Kanban/)
 
 ## Getting Started
 
