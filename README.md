@@ -1,3 +1,4 @@
+![Screenshot_2](https://user-images.githubusercontent.com/93161838/158003856-7262cfbc-7698-4f7e-b3a8-8fb5769cdeac.png)
 # Awesome-Kanban
 
 > A nice simple Kanban board that you can:
