@@ -33,11 +33,6 @@ To get a local copy up and running follow these simple example steps.
 - LinkedIn: LinkedIn
 
 
-👤 **Chris Clothier**
-
-- GitHub: [@CRClothier](https://github.com/crclothier)  
-- LinkedIn: [Chris Clothier](https://www.linkedin.com/in/crclothier/)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
